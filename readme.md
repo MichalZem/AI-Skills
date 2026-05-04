@@ -17,7 +17,7 @@ Po instalaci jsou skilly dostupné automaticky (auto-invocation) nebo přes pref
 
 | Skill | Co dělá |
 |-------|---------|
-| [`/mz:check-task-specificity`](skills/check-task-specificity/SKILL.md) | Před implementací ohodnotí specifičnost zadání dle 5 dimenzí (viz: arxiv 2504.20196) a klade cílené otázky pokud je vágní. |
+| [`/mz:check-task-specificity`](skills/check-task-specificity/SKILL.md) | Před implementací ohodnotí specifičnost zadání dle 5 dimenzí (viz: arxiv 2504.20196 https://arxiv.org/abs/2504.20196 ) a klade cílené otázky pokud je vágní. |
 | [`/mz:analyze-error-log`](skills/analyze-error-log/SKILL.md) | Analyzuje aplikační log (Serilog formát), seskupí chyby dle priority, vrátí strukturovaný report s doporučeními. |
 
 ## Vyvolání
