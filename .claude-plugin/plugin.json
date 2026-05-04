@@ -1,0 +1,13 @@
+{
+  "name": "mz",
+  "version": "0.1.0",
+  "description": "Kolekce skillů pro Claude Code: analýza error logů a kontrola specifičnosti zadání.",
+  "author": {
+    "name": "Michal Zemek",
+    "email": "michal1@zemek.cz"
+  },
+  "homepage": "https://github.com/michalzemek/AI-Skills",
+  "repository": "https://github.com/michalzemek/AI-Skills",
+  "license": "MIT",
+  "keywords": ["skills", "error-log", "task-specificity", "czech"]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "AI-Skills",
+  "owner": {
+    "name": "Michal Zemek",
+    "email": "michal1@zemek.cz"
+  },
+  "plugins": [
+    {
+      "name": "mz",
+      "source": "./",
+      "description": "Kolekce skillů pro Claude Code od Michala Zemka — analýza error logů, kontrola specifičnosti zadání a další.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["skills", "logs", "task-quality", "czech"]
+    }
+  ]
+}
