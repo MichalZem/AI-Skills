@@ -1,5 +1,8 @@
 # Seznam další skillu pro používání
 
+https://github.com/microsoft/skills  
+https://github.com/dotnet/skills
+
 
 https://github.com/obra/superpowers
 
@@ -13,5 +16,3 @@ npx get-shit-done-cc --claude --global
 /plugin install frontend-design@claude-plugins-official  
 
 
-https://github.com/microsoft/skills
-https://github.com/dotnet/skills
