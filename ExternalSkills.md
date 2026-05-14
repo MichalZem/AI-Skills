@@ -1,10 +1,15 @@
 # Seznam další skillu pro používání
 
+## Microsoft
 https://github.com/microsoft/skills  
 https://github.com/dotnet/skills
 
 
-https://github.com/obra/superpowers
+# Other
+
+Šetření Tokeny - https://github.com/Filip-Podstavec/claude-leverage  
+
+SuperPowers Agenti - https://github.com/obra/superpowers
 
 /plugin install skill-creator@claude-plugins-official  
 /plugin install superpowers@claude-plugins-official  
