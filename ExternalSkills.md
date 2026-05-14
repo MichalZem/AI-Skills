@@ -1,7 +1,8 @@
 # Seznam další skillu pro používání
 
-## Specifikace Skills
-https://agentskills.io/home  
+## Obecné ke Skillum
+Specifikace - https://agentskills.io/home  
+Vytvorení CLI místo Api nebo MCP pro Agenty - https://printingpress.dev/
 
 ## Microsoft
 https://github.com/microsoft/skills  
