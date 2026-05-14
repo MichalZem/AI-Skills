@@ -1,5 +1,8 @@
 # Seznam další skillu pro používání
 
+## Specifikace Skills
+https://agentskills.io/home  
+
 ## Microsoft
 https://github.com/microsoft/skills  
 https://github.com/dotnet/skills
