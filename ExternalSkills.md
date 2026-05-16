@@ -1,5 +1,10 @@
 # Seznam další skillu pro používání
 
+# Programing
+- https://github.com/addyosmani/agent-skills  - skills for programing
+- 
+
+# Others 
 ## Obecné ke Skillum
 Specifikace - https://agentskills.io/home  
 Vytvorení CLI místo Api nebo MCP pro Agenty - https://printingpress.dev/
@@ -26,3 +31,5 @@ npx get-shit-done-cc --claude --global
 /plugin install frontend-design@claude-plugins-official  
 
 
+# Design 
+https://github.com/VoltAgent/awesome-design-md
