@@ -3,6 +3,7 @@
 ## Obecné ke Skillum
 Specifikace - https://agentskills.io/home  
 Vytvorení CLI místo Api nebo MCP pro Agenty - https://printingpress.dev/
+Vtyváření skillu uze zdrojů - https://github.com/yusufkaraaslan/Skill_Seekers
 
 ## Microsoft
 https://github.com/microsoft/skills  
