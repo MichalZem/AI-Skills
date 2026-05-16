@@ -1,5 +1,10 @@
 # AI Linky
 
+## Agenti
+Hermes Agent - https://github.com/nousresearch/hermes-agent   + https://github.com/fathah/hermes-desktop  
+Paperclip - https://github.com/paperclipai/paperclip?tab=readme-ov-file#quickstart   
+OpenClaw - https://openclaw.ai/
+
 ## Orchestrace
 Codex - https://github.com/Yeachan-Heo/oh-my-codex  
 
