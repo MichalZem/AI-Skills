@@ -46,5 +46,6 @@ https://github.com/louiswang524/llm-knowledge-base/
 https://github.com/rohitg00/ai-engineering-from-scratch
 
 ## RAG
+https://www.langflow.org/  - nástroj pro AI agenty , RAg, MCP,...
 https://github.com/yichuan-w/LEANN  
 
