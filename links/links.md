@@ -46,6 +46,7 @@ https://github.com/louiswang524/llm-knowledge-base/
 https://github.com/rohitg00/ai-engineering-from-scratch
 
 ## RAG
+Článek o RAG technikách - https://podstavec.cz/blog/vyhledavani-vektory-2026/
 https://www.langflow.org/  - nástroj pro AI agenty , RAg, MCP,...
 https://github.com/yichuan-w/LEANN  
 
