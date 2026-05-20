@@ -5,6 +5,11 @@
 - 
 
 # Others 
+
+## Automatizace
+N8N - https://github.com/czlonkowski/n8n-skills  
+MAKE.COM - https://github.com/integromat/make-skills  
+
 ## Obecné ke Skillum
 Specifikace - https://agentskills.io/home  
 Vytvorení CLI místo Api nebo MCP pro Agenty - https://printingpress.dev/
