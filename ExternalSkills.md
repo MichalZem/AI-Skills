@@ -2,9 +2,10 @@
 
 # Programing
 - https://github.com/addyosmani/agent-skills  - skills for programing
-- 
 
 # Others 
+
+https://awesome-copilot.github.com/skills/  
 
 ## Automatizace
 N8N - https://github.com/czlonkowski/n8n-skills  
