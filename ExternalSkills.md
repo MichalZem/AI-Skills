@@ -1,6 +1,7 @@
 # Seznam další skillu pro používání
 
 # Programing
+- https://github.com/mattpocock/skills (grill-me, apod...)
 - https://github.com/addyosmani/agent-skills  - skills for programing
 
 # Others 
