@@ -44,6 +44,12 @@ https://github.com/louiswang524/llm-knowledge-base/
 https://github.com/vercel-labs/agent-browser  
 https://github.com/ChromeDevTools/chrome-devtools-mcp  
 
+## Pronájem HW pro AI
+- https://verda.com/ (mam tam kredit)
+- https://vast.ai/
+- https://salad.com/
+- BEST VPS https://hamy.xyz/blog/2025-08_best-value-vps  
+
 
 ## Others
 https://github.com/rohitg00/ai-engineering-from-scratch
