@@ -14,6 +14,7 @@ MAKE.COM - https://github.com/integromat/make-skills
 
 ## Obecné ke Skillum
 Specifikace - https://agentskills.io/home  
+company-skills-marketplace-template - https://github.com/bradautomates/company-skills-marketplace-template  
 Vytvorení CLI místo Api nebo MCP pro Agenty - https://printingpress.dev/
 Vtyváření skillu uze zdrojů - https://github.com/yusufkaraaslan/Skill_Seekers
 
