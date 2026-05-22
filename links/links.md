@@ -40,6 +40,9 @@ Obsidian https://obsidian.md/ - https://github.com/breferrari/obsidian-mind  -  
 https://github.com/louiswang524/llm-knowledge-base/  
 ## SecodnBrain 
 
+## Browser
+https://github.com/vercel-labs/agent-browser  
+https://github.com/ChromeDevTools/chrome-devtools-mcp  
 
 
 ## Others
