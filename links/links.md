@@ -7,7 +7,13 @@ https://github.com/sentrux/sentrux
 ## Code Knowledge Graph
 https://github.com/abhigyanpatwari/GitNexus  
 
-Semantic code search to Claude Code - https://github.com/zilliztech/claude-context  
+## C#
+- https://marketplace.visualstudio.com/items?itemName=YaroslavHorokhov.RoslynMcp
+- sémantickou analýzu kódu .NET/C#, navigaci, refaktoring a generování kódu pomocí Microsoft Roslyn. - https://github.com/pzalutski-pixel/sharplens-mcp
+- https://github.com/MarcelRoozekrans/roslyn-codelens-mcp
+- https://github.com/CodeGraphContext/CodeGraphContext
+- Semantic code search to Claude Code - https://github.com/zilliztech/claude-context
+- 
 
 
 
