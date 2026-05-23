@@ -5,9 +5,11 @@
 https://github.com/sentrux/sentrux 
 
 ## Code Knowledge Graph
-https://github.com/abhigyanpatwari/GitNexus  
+- https://github.com/giancarloerra/socraticode
+- https://github.com/abhigyanpatwari/GitNexus  
 
-## C#
+
+## C# - MCP + Grafy Codu
 - https://marketplace.visualstudio.com/items?itemName=YaroslavHorokhov.RoslynMcp
 - sémantickou analýzu kódu .NET/C#, navigaci, refaktoring a generování kódu pomocí Microsoft Roslyn. - https://github.com/pzalutski-pixel/sharplens-mcp
 - https://github.com/MarcelRoozekrans/roslyn-codelens-mcp
