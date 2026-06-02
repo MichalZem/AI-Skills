@@ -19,6 +19,19 @@ https://github.com/sentrux/sentrux
 
 
 
+
+
+## Sepc Driven Development Framework / nástroj	GitHub
+OpenSpec	https://github.com/Fission-AI/OpenSpec  
+BMAD Method	https://github.com/bmad-code-org/BMAD-METHOD  
+Spec Kit	https://github.com/github/spec-kit  
+Agent OS	https://github.com/buildermethods/agent-os  
+Taskmaster	https://github.com/eyaltoledano/claude-task-master  
+Superpowers	https://github.com/obra/superpowers  
+GSD / Get Shit Done	https://github.com/gsd-build/get-shit-done  
+Beads	https://github.com/gastownhall/beads  
+
+
 -----
 ## Claude Code
 https://github.com/affaan-m/everything-claude-code  ()
