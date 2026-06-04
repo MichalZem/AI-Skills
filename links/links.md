@@ -10,6 +10,7 @@ https://github.com/sentrux/sentrux
 
 
 ## C# - MCP + Grafy Codu
+- https://github.com/safishamsi/graphify
 - https://marketplace.visualstudio.com/items?itemName=YaroslavHorokhov.RoslynMcp
 - sémantickou analýzu kódu .NET/C#, navigaci, refaktoring a generování kódu pomocí Microsoft Roslyn. - https://github.com/pzalutski-pixel/sharplens-mcp
 - https://github.com/MarcelRoozekrans/roslyn-codelens-mcp
